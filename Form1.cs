@@ -38,10 +38,11 @@ namespace My_Server
 
         public void uiBtn_Read_Click(object sender, EventArgs e)
         {
+            //array확인용 버튼
 
             try
             {
-                GetCSVData(Map_grid);
+                GetCSVData_mapdata(radio_map);
             }
             catch { }
            /* FolderBrowserDialog fbd = new FolderBrowserDialog();
@@ -111,6 +112,35 @@ namespace My_Server
                     string Address = Map_grid[1];
 
                     foreach (var word in Map_grid)
+                    {
+                        Debug.WriteLine($"{word}");
+                        writeTextbox_csv(word);
+                    }
+                }
+            }
+        }
+        string[] radio_map; // 실험한 라디오 맵 데이터 2차원 array
+        public void GetCSVData_mapdata(string[] result_array)
+        {
+            // 유클리드 계산에 넣을 실험 데이터 w차원 array 바꿔주기
+            var path = @"C:\CSV\radio_map.csv"; // 실험 csv 파일 호출하기
+            using (TextFieldParser csvParser = new TextFieldParser(path))
+            {
+                csvParser.CommentTokens = new string[] { "#" };
+                csvParser.SetDelimiters(new string[] { "," });
+                csvParser.HasFieldsEnclosedInQuotes = true;
+
+                // Skip the row with the column names
+                csvParser.ReadLine();
+
+                while (!csvParser.EndOfData)
+                {
+                    // Read current line fields, pointer moves to the next line.
+                    radio_map = csvParser.ReadFields();
+                    string Name = radio_map[0];
+                    string Address = radio_map[1];
+
+                    foreach (var word in radio_map)
                     {
                         Debug.WriteLine($"{word}");
                         writeTextbox_csv(word);
@@ -263,7 +293,7 @@ namespace My_Server
             //핸드폰에서 불러온 데이터 array로 만들기, 
             //getcsvdata 공간이랑 다른 방법을 사용해서 array 만들었음
             //1차원 array 2개 생성
-            // 무슨 방법이 더 좋은지를 모르겠으무ㅜ
+
             Array.Resize(ref ArrayApname, Arraysplitstr.Length / 2);
             Array.Resize(ref ArrayLevel, Arraysplitstr.Length / 2);
 
@@ -308,8 +338,10 @@ namespace My_Server
         }
 
         static void calcEuclidDistance(string[,] vector1, string[,] vector2)
-        {// 유클리드 계산 돌릴 공간
-            
+        {
+            // 유클리드 계산 돌릴 공간
+            // 여기에  실험 데이터인 GetCSVData_mapdata에서 나온를 vector1에 넣고  button1_Click의 결과를 vector2에 넣음
+
             if (vector1.Rank != 1 && vector2.Rank != 2)
             {
                 throw new ArgumentException();
