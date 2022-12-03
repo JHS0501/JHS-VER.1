@@ -1,0 +1,77 @@
+C:\Users\jhcho\Documents\My_C#\My_Server\bin\Debug\My_Server.exe.config
+C:\Users\jhcho\Documents\My_C#\My_Server\bin\Debug\My_Server.exe
+C:\Users\jhcho\Documents\My_C#\My_Server\bin\Debug\My_Server.pdb
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.Form1.resources
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.Properties.Resources.resources
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.csproj.GenerateResource.cache
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.exe
+C:\Users\jhcho\Documents\My_C#\My_Server\obj\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\Downloads\My_Server\bin\Debug\My_Server.exe.config
+C:\Users\Ho Seok Jeong\Downloads\My_Server\bin\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\Downloads\My_Server\bin\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.Form1.resources
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.Properties.Resources.resources
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.csproj.GenerateResource.cache
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\Downloads\My_Server\obj\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\source\repos\My_Server\bin\Debug\My_Server.exe.config
+C:\Users\Ho Seok Jeong\source\repos\My_Server\bin\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\source\repos\My_Server\bin\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\source\repos\My_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ho Seok Jeong\source\repos\My_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.Form1.resources
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.Properties.Resources.resources
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.csproj.GenerateResource.cache
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.csproj.CopyComplete
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\source\repos\My_Server\obj\Debug\My_Server.pdb
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\bin\Debug\My_Server.exe.config
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\bin\Debug\My_Server.exe
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\bin\Debug\My_Server.pdb
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.Form1.resources
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.Properties.Resources.resources
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.csproj.GenerateResource.cache
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.csproj.CopyComplete
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.exe
+C:\Users\woghd\OneDrive\바탕 화면\캡스톤\My_Server\obj\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\bin\Debug\My_Server.exe.config
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\bin\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\bin\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.Form1.resources
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.Properties.Resources.resources
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.csproj.GenerateResource.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.csproj.CopyComplete
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc\obj\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\bin\Debug\My_Server.exe.config
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\bin\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\bin\Debug\My_Server.pdb
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.Form1.resources
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.Properties.Resources.resources
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.csproj.GenerateResource.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.csproj.CopyComplete
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.exe
+C:\Users\Ho Seok Jeong\Desktop\My_Server_conn&disc_1차 수정본\obj\Debug\My_Server.pdb
